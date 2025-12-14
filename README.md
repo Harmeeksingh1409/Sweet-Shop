@@ -151,7 +151,6 @@ Steps:
 1. Go to **Project → Settings → Domains**
 2. Click **Connect Domain**
 
-> *Insert domain configuration screenshots here*
 
 ---
 
